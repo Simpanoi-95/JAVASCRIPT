@@ -1,0 +1,9 @@
+ALGORITHM
+1.identify the number
+2.create the function
+3.compare the number
+
+
+link:https:https://jsbin.com/hovuqacoki/edit?js,console
+
+image link:IMG_20200308_075915_7.jpg
